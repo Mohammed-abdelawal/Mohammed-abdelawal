@@ -4,14 +4,14 @@
 </em></p>
 
 [![Twitter: Mohammed Abdelawal](https://img.shields.io/twitter/follow/Mo_Developer?style=social)](https://twitter.com/Mo_Developer)
-[![Linkedin: Mohammed Abdelawal](https://img.shields.io/badge/mohammed-abdelawal?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-abdelawal/)](https://www.linkedin.com/in/mohammed-abdelawal/)
-[![GitHub Mohammed-abdelawal](https://img.shields.io/github/followers/Mohammed-abdelawal?label=follow&style=social)](https://github.com/Mohammed-abdelawal)
+[![Linkedin: Mohammed Abdelawal](https://img.shields.io/badge/Mohammed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-abdelawal/)](https://www.linkedin.com/in/mohammed-abdelawal/)
+[![GitHub Mohammed Abdelawal](https://img.shields.io/github/followers/Mohammed-abdelawal?label=follow&style=social)](https://github.com/Mohammed-abdelawal)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```python
-    Mohammed = {
+  Mohammed = {
     code: [Python, Javascript, Java, HTML, CSS, PHP],
     tools: [Django, Flask, SQLALCHEMY, Jquery ,Bootstrap ,TDD ,OOP , FP, Docker],
     architecture: ["microservices", "event-driven", "design system pattern"],
