@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Mohammed Abdelawal! <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/source.gif" width="25"></h1>
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/source.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> Self study from  <a href="https://drive.google.com/drive/folders/1wxdnucq--RQ8xf6zY06BAD9Z52QZAdA9?usp=sharing">Online Courses</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Work as : Freelancer Django Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>CV: <a href="https://drive.google.com/file/d/1ut97m-4mI9FEe2VS1UIMvj0DKTGYtpkj/view?usp=sharing">Check my CV </a><img src="https://media.giphy.com/media/WNhxL5edM8Tn6aISYh/source.gif" width="20"> 
 </em></p>
 
 [![Twitter: Mohammed Abdelawal](https://img.shields.io/twitter/follow/Mo_Developer?style=social)](https://twitter.com/Mo_Developer)
@@ -12,15 +12,10 @@
 
 ```python
   Mohammed = {
-    code: [Python, Javascript, Java, HTML, CSS, PHP],
-    tools: [Django, Flask, SQLALCHEMY, Jquery ,Bootstrap ,TDD ,OOP , FP, Docker],
-    architecture: ["microservices", "event-driven", "design system pattern"],
-    techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+    Code: [Python, Javascript, Java, HTML, CSS, PHP],
+    Tools: [Django, Flask, SQLALCHEMY, Jquery ,Bootstrap ,TDD ,OOP , FP, Docker, Linux],
+    Challenge: "I am focus on learning new Python staff and advanced tricks",
+    FutureTarget: "Learning how to develope computer vision applications"
 }
 ```
 
@@ -28,4 +23,4 @@
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@Mohammed-abdelawal](https://github.com/Mohammed-abdelawal)
