@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Mohammed Abdelawal! <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/source.gif" width="25"></h1>
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/source.gif" width="230">
-<p><em> Self study from  <a href="https://drive.google.com/drive/folders/1wxdnucq--RQ8xf6zY06BAD9Z52QZAdA9?usp=sharing">Online Courses</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Work as : Freelancer Django Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>CV: <a href="https://drive.google.com/file/d/1ut97m-4mI9FEe2VS1UIMvj0DKTGYtpkj/view?usp=sharing">Check my CV </a><img src="https://media.giphy.com/media/WNhxL5edM8Tn6aISYh/source.gif" width="20"> 
+<p><em> Self study from  <a href="https://drive.google.com/drive/folders/1wxdnucq--RQ8xf6zY06BAD9Z52QZAdA9?usp=sharing">Online Courses</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Work as : Freelancer Django Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
 
 [![Twitter: Mohammed Abdelawal](https://img.shields.io/twitter/follow/Mo_Developer?style=social)](https://twitter.com/Mo_Developer)
