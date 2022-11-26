@@ -12,7 +12,7 @@
 
 ```python
   Mohammed = {
-    Code: [Python, Javascript, Java, HTML, CSS, PHP],
+    Code: [Python, Javascript, Java, HTML, CSS, RUST],
     Tools: [Django, Flask, SQLALCHEMY, Jquery ,Bootstrap ,TDD ,OOP , FP, Docker, Linux],
     Challenge: "I am focus on learning new Python staff and advanced tricks",
     FutureTarget: "Learning how to develope computer vision applications"
