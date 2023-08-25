@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Mohammed Abdelawal! <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/source.gif" width="25"></h1>
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/source.gif" width="230">
-<p><em> Self study from  <a href="https://drive.google.com/drive/folders/1wxdnucq--RQ8xf6zY06BAD9Z52QZAdA9?usp=sharing">Online Courses</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Work as : Freelancer Django Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+</br>Work as : Freelancer Django Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
 
 [![Twitter: Mohammed Abdelawal](https://img.shields.io/twitter/follow/Mo_Developer?style=social)](https://twitter.com/Mo_Developer)
@@ -11,12 +11,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```python
-  Mohammed = {
+Mohammed = {
     Code: [Python, Javascript, Java, HTML, CSS, RUST],
-    Tools: [Django, Flask, SQLALCHEMY, Jquery ,Bootstrap ,TDD ,OOP , FP, Docker, Linux],
-    Challenge: "I am focus on learning new Python staff and advanced tricks",
-    FutureTarget: "Learning how to develope computer vision applications"
-}
+    Tools: [Django, Flask, SQLALCHEMY, Bootstrap, TDD, OOP, Docker, Linux],
+    Challenge: "Learn all about Python and a little about everything else",
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
