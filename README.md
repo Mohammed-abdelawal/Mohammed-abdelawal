@@ -15,6 +15,7 @@ Mohammed = {
     Code: [Python, Javascript, Java, HTML, CSS, RUST],
     Tools: [Django, Flask, SQLALCHEMY, Bootstrap, TDD, OOP, Docker, Linux],
     Challenge: "Learn all about Python and a little about everything else",
+}
 
 ```
 
