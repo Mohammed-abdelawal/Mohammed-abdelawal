@@ -13,7 +13,7 @@
 ```python
 Mohammed = {
     Languages: [Python, Javascript, Java, HTML, CSS, RUST],
-    Frameworks&Libraries: [Django, Flask, FastAPI, SQLALCHEMY, REACT, TDD, OOP, Docker, Linux & Bash, DBs],
+    Frameworks_Libraries: [Django, Flask, FastAPI, SQLALCHEMY, REACT, TDD, OOP, Docker, Linux_Bash, DBs],
     Challenge: "Learn all about Back-End and a little about everything else",
 }
 
