@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Mohammed Abdelawal! <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/source.gif" width="25"></h1>
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/source.gif" width="230">
-</br>Work as : Freelancer Django Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+</br>Work as : Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
 
 [![Twitter: Mohammed Abdelawal](https://img.shields.io/twitter/follow/Mo_Developer?style=social)](https://twitter.com/Mo_Developer)
@@ -12,8 +12,8 @@
 
 ```python
 Mohammed = {
-    Code: [Python, Javascript, Java, HTML, CSS, RUST],
-    Tools: [Django, Flask, SQLALCHEMY, Bootstrap, TDD, OOP, Docker, Linux],
+    Languages: [Python, Javascript, Java, HTML, CSS, RUST],
+    Frameworks&Libraries: [Django, Flask, FastAPI, SQLALCHEMY, REACT, TDD, OOP, Docker, Linux & Bash, DBs],
     Challenge: "Learn all about Back-End and a little about everything else",
 }
 
